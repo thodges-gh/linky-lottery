@@ -1,0 +1,16 @@
+{
+  "name": "linky-lottery",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.0.10",
+    "@openzeppelin/contracts": "^3.2.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.7",
+    "truffle": "^5.1.50"
+  }
+}
