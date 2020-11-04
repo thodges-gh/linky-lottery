@@ -2,15 +2,10 @@
 # yarn lockfile v1
 
 
-"@audits/quattroporte@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@audits/quattroporte/-/quattroporte-1.1.0.tgz#4a859c66d5261be4904e2abbf0bd302dde700e0c"
-  integrity sha512-iSwAxUTeWKst3vszFSbDSq3J/dq89maFJ/QE1tLa1kWnFgN5LSNAuhvt2GK0Pl4w/FJn58FkDVgMxUh96XH7pw==
-
-"@chainlink/contracts@^0.0.10":
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/@chainlink/contracts/-/contracts-0.0.10.tgz#9eca8ff76e82e62b8ceeda9b2f69395cdb4dae56"
-  integrity sha512-ok+ucSQ+3mrR+zjbi6zIrdd5M9XymcqVcnXGVyqBVRYZp97jS2/rt/glP320JmHxmi4pacgDOg0Ux11xIr1S8Q==
+"@chainlink/contracts@^0.0.11":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@chainlink/contracts/-/contracts-0.0.11.tgz#22de73cdb8c1b2242ea0ebd32b639d2a17ed2ffe"
+  integrity sha512-ZHvsb6WIgCQFvrtqpmV4AJv/LlozXjseTHll9lTlrzSLJMMyPt3g73pKFpQHjhCXL/0YMGosIYxQ4J+RGirbkg==
   optionalDependencies:
     "@truffle/contract" "^4.2.6"
     ethers "^4.0.45"
